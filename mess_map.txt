@@ -1,11 +1,27 @@
-// This is a comment in the system.
+// List of all icons in the system.
+// Index 0 is Empty for the icons and addcons.
+// Index 1-6 is Belts: 1 Red Asteroid cluster. 2 Grey Asteroid cluster. 3 Cyan Asteroid cluster. 4 Brown Asteroid cluster. 5 Yellow Comet cluster. 6 Cyan Comet cluster.
+// Index 7-13 is Barren Worlds: 7 Grey Rocky World. 8 Cyan Rocky World. 9 Brown Rocky World. 10 Red Rocky World. 11 Brown Sandy World, 12 Grey Sandy World. 13 Red Sandy World.
+// Index 14-16 is Hellworlds: 14 Brown Hellworld. 15 Red Hellworld. 16 Tan Hellworld.
+// Index 17-19 is Frozen Worlds
+// Index 20-21 is Toxic Worlds: 20 is Green Toxic World. 21 is Purple Toxic World.
+// Index 22-23 is Gas Giants: 22 is Brown Gas Giant, 23 is Yellow Gas Giant.
+// Index 24-25 is Ice Giants: 24 is Blue Ice Giant, 25 is Green Ice Giant.
+// Index 26-40 is Gardens: 26-27 Frozen Garden, 28 Mountains/Volcanic, 29-30 Ocean World, 31 Verdant, 32 Epipological/Interdial, 33-34 Abbysal, 35-36 Swamp, 37-38 Grasslands, 39-40 Deser/Cave.
+// Index 41-47 is Stars: 41 Yellow. 42 Cyan. 43 Orange. 44 Red. 45 White. 46 Unstable. 47 Blackhole.
+// Index 48-50 is Special Worlds: 48 Black. 49 Red. 50 Gray.
+// Index 51-54 is Systems: 51 Cyan Stars. 52 Yellow Stars. 53 Blue Nebula. 54 Brown Nebula.
+// Index 55-58 is Clusters: 55-57 Bllob. 58 Milky Way.
+// Index 59-60 is Relays: 59 Secondary. 60 Primary.
+// Index 1-4 is Rings: 1 Yellow, 2 Gray, 3 Red, 4 Cyan.
+// Index 5-7 is Constellations: 1 Red, 2 Grey, 3 Green.
 1|MW_G|Milky Way Galaxy|0|58|0|This is the galaxy of the game and contains all systems and stars that will be part of the game.|2
 2|D|Sector D|0|56|0|This is the D Sector.|3|4|5|6|1
 3|D11|SCP Core Space|0|57|0|This is the supercluster containing the core races of the SCP.|7|8|9|10|11|12|13|14|15|16|2
 4|D10|Lekgolo Homeworlds|0|55|0|This is the supercluster containing the homeworlds of the lekgolo.|2
 5|D1|Lupus Frontier|0|56|0|This is the supercluster where that the Lupus has begun colonizing.|2
 6|D9|Draconatus Homeowlrds|0|55|0|This is the supercluster containing the Six Sisters of the Draconatus|2
-7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|3
+7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|17|3
 8|D11(2)|D11(2)|0|52|0|This is an Akrid Colonial cluster containing the CCCP autonomous Zone.|3
 9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|3
 10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|3
@@ -14,4 +30,34 @@
 13|D11(7)|Primus 1|0|51|0|This is the Lupus Homecluster.|3
 14|D11(8)|Son'da|0|52|0|This is the K'rah Homecluster.|3
 15|D11(9)|EDM|0|51|0|This is the Akrid Homecluster.|3
-16|D11(10)|Rana|0|51|0|This is the Murini Homecluster.|3
+16|D11(10)|Rana|0|52|0|This is the Murini Homecluster.|3
+17|D11(1)-1|D11(1)-1|0|41|0| |20|21|22|23|24|7
+18|D11(1)-2|D11(1)-2|0|43|0| |25|26|27|28|29|30|31|32|33|34|35|7
+19|D11(1)-3|C'unda|0|41|0| |36|37|38|39|40|41|42|43|44|45|46|7
+20|D11(1)-1*|D11(1)-1*|0|41|0| |17
+21|D11(1)-1A|D11(1)-1A|0|2|0| |17
+22|D11(1)-1PR1|D11(1)-1 PR -> D11(3)-6|1|60|0| |17
+23|D11(1)-1SR|D11(1)-1 SR|1|59|0| |34|44|17
+24|D11(1)-1B|D11(1)-1B|0|32|2|A K'rah Colony world.|17
+25|D11(1)-2*|D11(1)-2*|0|43|0| |18
+26|D11(1)-2A|D11(1)-2A|0|21|0| |18
+27|D11(1)-2B|D11(1)-2B|0|20|0| |18
+28|D11(1)-2C|D11(1)-2C|0|13|0| |18
+29|D11(1)-2D|D11(1)-2D|0|15|0| |18
+30|D11(1)-2E|D11(1)-2E|0|8|0| |18
+31|D11(1)-2F|D11(1)-2D|0|3|0| |18
+32|D11(1)-2PR1|D11(1)-2 PR -> D11(2)-6|1|60|0| |18
+33|D11(1)-2G|D11(1)-2G|0|5|0| |18
+34|D11(1)-2SR|D11(1)-2 SR|1|59|0| |23|44|18
+35|D11(1)-2H|D11(1)-2H|0|13|0| |18
+36|D11(1)-3*|C'unda Star|0|41|0| |19
+37|D11(1)-3A|D11(1)-3A|0|23|0| |19
+38|D11(1)-3Aa|D11(1)-3Aa|1|2|0| |19
+39|D11(1)-3B|D11(1)-3B|0|30|0|Akrid Colony World|19
+40|D11(1)-3C|D11(1)-3C|0|1|0|Ezo Rich Belt.|19
+41|D11(1)-3PR1|D11(1)-3 PR -> D10(5)-1|0|60|0| |19
+42|D11(1)-3D|D11(1)-3D|0|18|0| |19
+43|D11(1)-3E|D11(1)-3E|0|19|0| |19
+44|D11(1)-3SR|D11(1)-3 SR|0|59|0| |23|34|19
+45|D11(1)-3F|D11(1)-3F|0|17|0|Large frozen world.|19
+46|D11(1)-3G|D11(1)-3G|0|7|0| |19
