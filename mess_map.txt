@@ -21,7 +21,7 @@
 4|D10|Lekgolo Homeworlds|0|55|0|This is the supercluster containing the homeworlds of the lekgolo.|2
 5|D1|Lupus Frontier|0|56|0|This is the supercluster where that the Lupus has begun colonizing.|2
 6|D9|Draconatus Homeowlrds|0|55|0|This is the supercluster containing the Six Sisters of the Draconatus|2
-7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|17|3
+7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|17|18|19|3
 8|D11(2)|D11(2)|0|52|0|This is an Akrid Colonial cluster containing the CCCP autonomous Zone.|3
 9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|3
 10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|3
