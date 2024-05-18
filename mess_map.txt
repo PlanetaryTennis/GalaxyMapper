@@ -1,4 +1,14 @@
 // This is a comment in the system.
-1|MW_G|Milky Way Galaxy|0|55|0|This is the galaxy of the game and contains all systems and stars that will be part of the game.|2|3|4|5|6|7|8|9|10
-2|A|Sector A|0|56|0|This is the A Sector.|11|1
-3|B|Sector B|0|56|0|This is the B Sector.|12|1
+1|MW_G|Milky Way Galaxy|0|58|0|This is the galaxy of the game and contains all systems and stars that will be part of the game.|2
+2|D|Sector D|0|56|0|This is the D Sector.|3|1
+3|D11|SCP Core Space|0|57|0|This is the supercluster containing the core races of the SCP.|7|8|9|10|11|12|13|2
+4|D10|Lekgolo Homeworlds|0|55|0|This is the supercluster containing the homeworlds of the lekgolo.|2
+5|D1|Lupus Frontier|0|56|0|This is the supercluster where that the Lupus has begun colonizing.|2
+6|D9|Draconatus Homeowlrds|0|55|0|This is the supercluster containing the Six Sisters of the Draconatus|2
+7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|3
+8|D11(2)|D11(2)|0|52|0|This is an Akrid Colonial cluster containing the CCCP autonomous Zone.|3
+9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|3
+10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|3
+11|D11(5)|Primus 2|0|51|0|This is a Lupus Core cluster containing their first expansion worlds.|3
+12|D11(6)|D11(6)|0|52|0|This is a cluster containing the first Akird Lupus joint colony.|3
+13|D11(7)|Primus 1|0|51|0|This is the Lupus Homecluster.|3
