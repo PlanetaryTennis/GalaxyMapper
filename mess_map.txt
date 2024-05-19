@@ -11,7 +11,7 @@
 // Index 41-47 is Stars: 41 Yellow. 42 Cyan. 43 Orange. 44 Red. 45 White. 46 Unstable. 47 Blackhole.
 // Index 48-50 is Special Worlds: 48 Black. 49 Red. 50 Gray.
 // Index 51-54 is Systems: 51 Cyan Stars. 52 Yellow Stars. 53 Blue Nebula. 54 Brown Nebula.
-// Index 55-58 is Clusters: 55-57 Bllob. 58 Milky Way.
+// Index 55-58 is Clusters: 55-57 Blob. 58 Milky Way.
 // Index 59-60 is Relays: 59 Secondary. 60 Primary.
 // Index 1-4 is Rings: 1 Yellow, 2 Gray, 3 Red, 4 Cyan.
 // Index 5-7 is Constellations: 1 Red, 2 Grey, 3 Green.
