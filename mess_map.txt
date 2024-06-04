@@ -27,9 +27,9 @@
 // SCP Core Space
 7|D11(1)|Gan'ada|0|51|0|This is a K'rah Core cluster containing their only existent colony world.|17|18|19|3
 8|D11(2)|Charis|0|52|0|This is an Akrid Colonial cluster containing the CCCP autonomous Zone.|47|48|49|50|51|52|3
-9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|3
-10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|3
-11|D11(5)|Primus 2|0|51|0|This is a Lupus Core cluster containing their first expansion worlds.|3
+9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|91|92|93|94|95|96|3
+10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|142|143|3
+11|D11(5)|Primus 2|0|51|0|This is a Lupus Core cluster containing their first expansion worlds.|164|165|166|167|168|3
 12|D11(6)|D11(6)|0|52|0|This is a cluster containing the first Akird Lupus joint colony.|3
 13|D11(7)|Primus 1|0|51|0|This is the Lupus Homecluster.|3
 14|D11(8)|Son'da|0|52|0|This is the K'rah Homecluster.|3
