@@ -30,7 +30,7 @@
 9|D11(3)|D11(3)|0|51|0|This is an SCP Colonial cluster.|91|92|93|94|95|96|3
 10|D11(4)|New Seattle|0|52|0|This is the central hub of SCP core space.|142|143|3
 11|D11(5)|Primus 2|0|51|0|This is a Lupus Core cluster containing their first expansion worlds.|164|165|166|167|168|3
-12|D11(6)|D11(6)|0|52|0|This is a cluster containing the first Akird Lupus joint colony.|3
+12|D11(6)|D11(6)|0|52|0|This is a cluster containing the first Akird Lupus joint colony.|204|205|3
 13|D11(7)|Primus 1|0|51|0|This is the Lupus Homecluster.|3
 14|D11(8)|Son'da|0|52|0|This is the K'rah Homecluster.|3
 15|D11(9)|EDM|0|51|0|This is the Akrid Homecluster.|3
@@ -207,7 +207,7 @@
 147|D11(4)-1B|New Cleveland|0|39|0| |142
 148|D11(4)-1PR2|New Seattle PR -> D11(3)-1|1|60|0| |99|142
 149|D11(4)-1C|Jovian|0|22|1| |142
-150|D11(4)-1PR3|New Seattle PR -> D11(6)-1|1|60|0| |142
+150|D11(4)-1PR3|New Seattle PR -> D11(6)-1|1|60|0| |210|142
 151|D11(4)-1D|New Rock|0|5|0| |142
 152|D11(4)-1SR|New Seattle SR|1|59|0| |159|142
 153|D11(4)-1E|Pyli|0|23|0| |142
@@ -264,7 +264,7 @@
 193|D11(5)-4*|Primus 2-4*|0|42|0| |167
 194|D11(5)-4A|Primus 2-4A|0|12|0| |167
 195|D11(5)-4SR|Primus 2-4 SR|1|59|0| |171|180|191|199|167
-196|D11(5)-4PR1|Primus 2-4 PR -> D11(6)-2|1|60|0| |167
+196|D11(5)-4PR1|Primus 2-4 PR -> D11(6)-2|1|60|0| |215|167
 //
 // Primus 2-5
 197|D11(5)-5*|Primus 2-5*|0|44|0| |168
@@ -273,3 +273,22 @@
 201|D11(5)-5Aa|Primus 2-5Aa|1|10|0| |168
 202|D11(5)-5B|Primus 2-5B|0|3|0| |168
 203|D11(5)-5PR1|Primus 2-5 PR -> New Wyoming|1|60|0| |161|168
+//
+// D11(6) Cluster
+204|D11(6)-1|D11(6)-1|0|46|0| |206|207|208|209|210|12
+205|D11(6)-2|D11(6)-2|0|41|0| |211|212|213|214|215|216|12
+//
+// D11(6)-1 System
+206|D11(6)-1*|D11(6)-1*|0|46|0| |204
+207|D11(6)-1A|D11(6)-1A|0|20|0| |204
+208|D11(6)-1B|D11(6)-1B|0|17|0| |204
+209|D11(6)-1SR|D11(6)-1 SR|1|59|0| |214|204
+210|D11(6)-1PR1|D11(6)-1 PR -> New Seattle|1|60|0| |150|204
+//
+// D11(6)-2 System
+211|D11(6)-2*|D11(6)-2*|0|41|0| |205
+212|D11(6)-2A|D11(6)-2A|0|24|0| |205
+213|D11(6)-2Aa|D11(6)-2Aa|0|36|0| |205
+214|D11(6)-2SR|D11(6)-2 SR|1|59|0| |209|205
+215|D11(6)-2PR1|D11(6)-2 PR -> Primus 2-4|1|60|0| |196|205
+216|D11(6)-2PR2|D11(6)-2 PR -> D1(15)-1|1|60|0| |205
