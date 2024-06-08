@@ -32,7 +32,7 @@
 11|D11(5)|Primus 2|0|51|0|This is a Lupus Core cluster containing their first expansion worlds.|164|165|166|167|168|3
 12|D11(6)|D11(6)|0|52|0|This is a cluster containing the first Akird Lupus joint colony.|204|205|3
 13|D11(7)|Primus 1|0|51|0|This is the Lupus Homecluster.|217|218|219|220|221|3
-14|D11(8)|Son'da|0|52|0|This is the K'rah Homecluster.|3
+14|D11(8)|Son'da|0|52|0|This is the K'rah Homecluster.|260|261|262|263|264|3
 15|D11(9)|EDM|0|51|0|This is the Akrid Homecluster.|3
 16|D11(10)|Rara|0|52|0|This is the Murini Homecluster.|3
 // 
@@ -237,7 +237,7 @@
 171|D11(5)-1SR|Primus 2-1 SR|1|59|0| |180|191|195|199|164
 172|D11(5)-1Aa|Primus 2-1Aa|1|18|0| |164
 173|D11(5)-1B|Primus 2-1B|0|22|2| |164
-174|D11(5)-1PR1|Primus 2-1 PR -> Primus 1-5|1|60|0| |164
+174|D11(5)-1PR1|Primus 2-1 PR -> Primus 1-5|1|60|0| |258|164
 175|D11(5)-1Ba|Primus 2-1Ba|1|26|0| |164
 //
 // Primus 2-2 System
@@ -296,9 +296,9 @@
 // Primus 1 Cluster
 217|D11(7)-1|Lupus|0|51|0| |222|223|224|225|226|227|228|229|230|231|13
 218|D11(7)-2|Primus 1-2|0|41|0| |232|233|234|235|236|237|238|239|240|241|13
-219|D11(7)-3|Primus 1-3|0|43|0| |13
-220|D11(7)-4|Primus 1-4|0|42|0| |13
-221|D11(7)-5|Primus 1-5|0|41|0| |13
+219|D11(7)-3|Primus 1-3|0|43|0| |242|243|244|245|13
+220|D11(7)-4|Primus 1-4|0|42|0| |246|247|248|249|250|251|252|13
+221|D11(7)-5|Primus 1-5|0|41|0| |253|254|255|256|257|258|259|13
 //
 // Lupus System
 222|D11(7)-1*A|Lupus *A|0|44|0| |217
@@ -307,7 +307,7 @@
 225|D11(7)-1B|Lupus B|0|37|0|Methane World|217
 226|D11(7)-1C|Lupus C|0|63|0| |217
 227|D11(7)-1D|Lupus D|0|21|0| |217
-228|D11(7)-1SR|Lupus SR|1|59|0| |240|217
+228|D11(7)-1SR|Lupus SR|1|59|0| |240|244|251|256|217
 229|D11(7)-1E|Lupus E|0|17|0| |217
 230|D11(7)-1F|Lupus F|0|19|0| |217
 231|D11(7)-1G|Lupus G|0|18|0| |217
@@ -321,14 +321,43 @@
 237|D11(7)-2D|Primus 1-2D|0|23|2| |218
 238|D11(7)-2E|Primus 1-2E|0|21|0| |218
 239|D11(7)-2F|Primus 1-2F|0|3|0| |218
-240|D11(7)-2SR|Primus 1-2 SR|1|59|0| |228|218
+240|D11(7)-2SR|Primus 1-2 SR|1|59|0| |228|244|251|256|218
 241|D11(7)-2G|Primus 1-2G|0|27|0| |218
 //
 // Primus 1-3
-// Belt -SR Verdant Garden
+242|D11(7)-3*|Primus 1-3*|0|43|0| |219
+243|D11(7)-3A|Primus 1-3A|0|2|0| |219
+244|D11(7)-3SR|Primus 1-3 SR|1|59|0| |228|240|251|256|219
+245|D11(7)-3B|Primus 1-3B|0|31|0| |219
 //
 // Primus 1-4
-// Barren Toxic World Ice Giant Gas Giant -SR Frozen Moon Barren
+246|D11(7)-4*|Primus 1-4*|0|42|0| |220
+247|D11(7)-4A|Primus 1-4A|0|7|0| |220
+248|D11(7)-4B|Primus 1-4B|0|21|0| |220
+249|D11(7)-4C|Primus 1-4C|0|25|4| |220
+250|D11(7)-4D|Primus 1-4D|0|22|0| |220
+251|D11(7)-4SR|Primus 1-4 SR|1|59|0| |228|240|244|256|220
+252|D11(7)-4Da|Primus 1-4Da|1|19|0| |220
 //
 // Primus 1-5
-// Swamp Garden Belt -SR Toxic World -PR Desert Garden 
+253|D11(7)-5*|Primus 1-5*|0|41|0| |221
+254|D11(7)-5A|Primus 1-5A|0|36|0| |221
+255|D11(7)-5B|Primus 1-5B|0|2|0| |221
+256|D11(7)-5SR|Primus 1-5 SR|1|59|0| |228|240|244|251|221
+257|D11(7)-5C|Primus 1-5C|0|21|0| |221
+258|D11(7)-5PR1|Primus 1-5 PR -> Primus 2-1|1|60|0| |174|221
+259|D11(7)-5D|Primus 1-5D|0|39|0| |221
+//
+// Son'da Cluster
+260|D11(8)-1|Son'da|0|52|0|The K'rah Home System|265|266|267|268|269|14
+261|D11(8)-2|Son'da 2|0|41|0| |14
+262|D11(8)-3|Son'da 3|0|43|0| |14
+263|D11(8)-4|Son'da 4|0|41|0| |14
+264|D11(8)-5|Son'da 5|0|42|0| |14
+//
+// Son'da System
+265|D11(8)-1*A|Son'da|0|41|0| |260
+266|D11(8)-1*B|Son'ji|0|44|0| |260
+267|D11(8)-1*C|Son'da (False)|0|22|0| |260
+268|D11(8)-1A|G'rina|0|29|0| |260
+269|D11(8)-1SR|Son'da SR|1|59|0| |260
